@@ -12,8 +12,14 @@ print(gpa)
 name = input("What's your name: ")
 print(f'Hello {name}')
 
-# Math - Arithmetic
-num += 1 # num = num + 1
-num -= 1 # num = num - 1
-num *= 1 # num = num * 1
-num /= 1 # num = num / 1
+# Math - Arithmetic (shortcut)
+# num += 1 ----> num = num + 1 
+# num -= 1 ----> num = num - 1
+# num *= 1 ----> num = num * 1
+# num /= 1 ----> num = num / 1
+
+# Logical Operators = evaluate multiple conditions ( or , and , not)
+# or = at least one condition must be True
+# and = both conditions must be True
+# not = inverts the condition ( not False , not True)
+
